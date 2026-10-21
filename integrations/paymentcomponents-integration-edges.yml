@@ -1,0 +1,18 @@
+generated: '2026-10-21'
+method: none
+source:
+- https://zapier.com/apps/paymentcomponents/integrations
+- https://zapier.com/apps/payment-components/integrations
+- https://n8n.io/integrations/paymentcomponents/
+- https://composio.dev/toolkits/paymentcomponents
+- https://monid.ai/tools/paymentcomponents
+checked:
+- https://composio.dev/toolkits/paymentcomponents
+- https://monid.ai/tools/paymentcomponents
+- https://n8n.io/integrations/paymentcomponents/
+- https://zapier.com/apps/payment-components/integrations
+- https://zapier.com/apps/paymentcomponents/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []

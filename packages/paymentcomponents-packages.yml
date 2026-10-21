@@ -1,0 +1,9 @@
+generated: '2026-10-21'
+method: none
+source: https://registry.npmjs.org/-/v1/search?text=paymentcomponents&size=5
+packages: []
+rejected:
+- name: checkout-web-components
+  registry: npm
+  reason: 'official: false as written'
+note: 'no first-party package: every candidate a model listed was unowned (harvest-packages.py --audit)'
